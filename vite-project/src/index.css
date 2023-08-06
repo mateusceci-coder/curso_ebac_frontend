@@ -1,0 +1,10 @@
+:root {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+}
