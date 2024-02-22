@@ -1,19 +1,17 @@
 {
-  "name": "exmod18",
+  "name": "exercicio_cypress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "grunt": "grunt",
-    "build": "grunt build",
+    "cypress": "cypress",
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.6.1",
-    "grunt-contrib-less": "^3.0.0",
-    "grunt-contrib-uglify": "^5.2.2",
-    "less": "^4.2.0"
+    "cypress": "^12.6.0"
   }
 }
